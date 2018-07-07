@@ -79,8 +79,8 @@ theme: hexo-one
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
 - type: git
-  repo:
-
+  repo: https://github.com/jinxuanzheng01/blog.git
+  branch: master
 # live2d
 #live2d:
 #  enable: true
